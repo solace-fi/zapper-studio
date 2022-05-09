@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.24.0](https://github.com/Zapper-fi/studio/compare/v0.23.0...v0.24.0) (2022-05-09)
+
+
+### Features
+
+* added alpha-v1 tvl-fetcher ([#404](https://github.com/Zapper-fi/studio/issues/404)) ([3d0203b](https://github.com/Zapper-fi/studio/commit/3d0203bbe5885450b4b9532dc3d5707d6129034d))
+
 ## [0.23.0](https://github.com/Zapper-fi/studio/compare/v0.22.0...v0.23.0) (2022-05-09)
 
 
